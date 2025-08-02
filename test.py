@@ -5,3 +5,4 @@ name = input("What's your name? ")
 
 # Greet the user
 print("Hello, " + name + "! Nice to meet you.Harmit")
+print("Add to cart")
